@@ -235,7 +235,7 @@ function actionConvert(selFrom, selTo, elemAmtToConvert) {
       //   date: "2018-09-07",
       //   rates: {
       //     ARS: 42.694451,
-      //     AUD: 1.626778,
+      //     AUD: 1.62677,
       //   },
       // };
 
